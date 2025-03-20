@@ -41,14 +41,14 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBlCDmU0sOTlrKQGiTei7r58HCzpc72rj4',
-    appId: '1:507664778975:web:40c163e75cfdc8b556cb6a',
-    messagingSenderId: '507664778975',
-    projectId: 'navit-6b4d1',
-    authDomain: 'navit-6b4d1.firebaseapp.com',
-    databaseURL: 'https://navit-6b4d1-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'navit-6b4d1.firebasestorage.app',
-    measurementId: 'G-JFRBNM7W1R',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    databaseURL: '',
+    storageBucket: '',
+    measurementId: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
@@ -67,8 +67,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '',
     projectId: '',
     databaseURL: '',
-    storageBucket: 'navit-6b4d1.firebasestorage.app',
-    iosBundleId: 'com.example.navit',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
