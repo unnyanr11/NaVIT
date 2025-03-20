@@ -72,23 +72,23 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBUOnc_25b_GgX6_3BUSeBaW_wAFtoRAvY',
-    appId: '1:507664778975:ios:63c44df9b46016cf56cb6a',
-    messagingSenderId: '507664778975',
-    projectId: 'navit-6b4d1',
-    databaseURL: 'https://navit-6b4d1-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'navit-6b4d1.firebasestorage.app',
-    iosBundleId: 'com.example.navit',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    databaseURL: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBlCDmU0sOTlrKQGiTei7r58HCzpc72rj4',
-    appId: '1:507664778975:web:1cd7cb0935b1dafb56cb6a',
-    messagingSenderId: '507664778975',
-    projectId: 'navit-6b4d1',
-    authDomain: 'navit-6b4d1.firebaseapp.com',
-    databaseURL: 'https://navit-6b4d1-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'navit-6b4d1.firebasestorage.app',
-    measurementId: 'G-104MK7ZZ67',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    databaseURL: '',
+    storageBucket: '',
+    measurementId: '',
   );
 }
