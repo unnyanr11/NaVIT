@@ -52,21 +52,21 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCvbOn2mPd3eaDDiQRet1ScfsWSm3xiAeA',
-    appId: '1:507664778975:android:eae610f4b211c91a56cb6a',
-    messagingSenderId: '507664778975',
-    projectId: 'navit-6b4d1',
-    databaseURL: 'https://navit-6b4d1-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'navit-6b4d1.firebasestorage.app',
-    androidClientId: 'com.example.navit',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    databaseURL: '',
+    storageBucket: '',
+    androidClientId: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBUOnc_25b_GgX6_3BUSeBaW_wAFtoRAvY',
-    appId: '1:507664778975:ios:63c44df9b46016cf56cb6a',
-    messagingSenderId: '507664778975',
-    projectId: 'navit-6b4d1',
-    databaseURL: 'https://navit-6b4d1-default-rtdb.asia-southeast1.firebasedatabase.app',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    databaseURL: '',
     storageBucket: 'navit-6b4d1.firebasestorage.app',
     iosBundleId: 'com.example.navit',
   );
