@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="assets2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/logo.png.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/background.png.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/first.png.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/imm2.png.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

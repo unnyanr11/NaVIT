@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="base2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/build/app/intermediates/merged_java_res/release/mergeReleaseJavaResource/base.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
